@@ -25,13 +25,11 @@ Keep in mind the course's academic honesty. You should try figuring out a soluti
 
 C
 
-L-1 - Population Growth - determine how long it takes for a population to reach a particular size.
+L-1 - [Mario Less](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%201/mario.c) - create a right-aligned pyramid of blocks.
 
-PS-1 - Mario Less - create a right-aligned pyramid of blocks.
+PS-1 - [Mario More](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%201/mario_advanced.c) - create an adjacent pyramid of blocks.
 
-PS-1 - Mario More - create an adjacent pyramid of blocks.
-
-PS-1 - Cash - minimize the number of coins given to a customer when making a change using greedy algorithms.
+PS-1 - [Cash](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%201/cash.c) - minimize the number of coins given to a customer when making a change using greedy algorithms.
 
 ---
 
@@ -39,11 +37,9 @@ PS-1 - Cash - minimize the number of coins given to a customer when making a cha
 
 C
 
-L-2 Scrabble - determine which of two scrabble words is worth more.
+L-2 [Caesar](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%202/ceaser.c) - program that encrypts messages using Caesar's cipher.
 
-PS-2 Caesar - program that encrypts messages using Caesar's cipher.
-
-PS-2 Readability - computes the approximate grade level needed to comprehend some text.
+PS-2 [Readability](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%202/readability.c) - computes the approximate grade level needed to comprehend some text.
 
 ---
 
@@ -52,11 +48,9 @@ PS-2 Readability - computes the approximate grade level needed to comprehend som
 
 C
 
-L-3 Sort - analyze three sorting programs to determine which algorithms they use.
+L-3 [Plurality](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%203/plurality.c) - program that runs a plurality election.
 
-PS-3 Plurality - program that runs a plurality election.
-
-PS-3 Runoff - program that runs a runoff election.
+PS-3 [Runoff](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%203/runoff.c) - program that runs a runoff election.
 
 ---
 
@@ -65,11 +59,9 @@ PS-3 Runoff - program that runs a runoff election.
 
 C
 
-L-4 Volume - modify the volume of an audio file.
+L-4 [Filter Less](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Week%204/filter) - program that applies filters to BMPs.
 
-PS-4 Filter Less - program that applies filters to BMPs.
-
-PS-4 Recover - program that recovers JPEGs from a forensic image.
+PS-4 [Recover](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Week%204/recover) - program that recovers JPEGs from a forensic image.
 
 ---
 
@@ -78,9 +70,7 @@ PS-4 Recover - program that recovers JPEGs from a forensic image.
 
 C
 
-L-5 Inheritance - simulates the inheritance of blood types for each member of a family.
-
-PS-5 Speller - program that spell-checks a file using a hash table.
+L-5 [Speller](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Week%205/speller) - program that spell-checks a file using a hash table.
 
 ---
 
@@ -89,17 +79,15 @@ PS-5 Speller - program that spell-checks a file using a hash table.
 
 Python
 
-L-6 World Cup - program to run simulations of the FIFA World Cup.
+L-6 [Mario Less](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%206/marioLess.py) - create a right-aligned pyramid of blocks.
 
-PS-6 Mario Less - create a right-aligned pyramid of blocks.
+PS-6 [Mario More](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%206/marioAdvanced.py) - create an adjacent pyramid of blocks.
 
-PS-6 Mario More - create an adjacent pyramid of blocks.
+PS-6 [Cash](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%206/cash.py) - minimize the number of coins given to a customer when making a change using greedy algorithms.
 
-PS-6 Cash - minimize the number of coins given to a customer when making a change using greedy algorithms.
+PS-6 [Credit](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%206/credit.py) - program that determines whether a provided credit card number is valid according to Luhn's algorithm.
 
-PS-6 Credit - program that determines whether a provided credit card number is valid according to Luhn's algorithm.
-
-PS-6 Readability - computes the approximate grade level needed to comprehend some text.
+PS-6 [Readability](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/blob/main/Week%206/readability.py) - computes the approximate grade level needed to comprehend some text.
 
 ---
 
@@ -107,11 +95,7 @@ PS-6 Readability - computes the approximate grade level needed to comprehend som
 
 SQLite
 
-L-7 Songs - SQL queries that answer questions about a database of songs.
-
-PS-7 Movies - SQL queries that answer questions about a database of movies.
-
-PS-8 Fiftyville - write SQL queries to solve a mystery.
+L-7 [Similarities](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Week%208/Finance/finance)
 
 ---
 
@@ -119,9 +103,7 @@ PS-8 Fiftyville - write SQL queries to solve a mystery.
 
 HTML5 CSS3 JavaScript Bootstrap
 
-L-8 Trivia - simple webpage that lets users answer trivia questions.
-
-PS-8 Homepage - simple web application with multiple pages.
+L-8 [Finance](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Week%208/Finance/finance)
 
 ---
 
@@ -129,19 +111,10 @@ PS-8 Homepage - simple web application with multiple pages.
 
 Python Flask SQLite HTML5 CSS3 JavaScript Bootstrap
 
-L-9 Birthdays - web application that keeps track of birthdays.
-
-PS-9 Finance - website via which users can 'buy' and 'sell' stocks.
+L-9 [Finance](https://github.com/Hakanerdn/HarvardX-CS50-Introduction-to-Computer-Science/tree/main/Week%209/ProblemSet9/Finance) - website via which users can 'buy' and 'sell' stocks.
 
 ---
 
 ▶️ Final Project
 
-Portfolio Website - full-stack portfolio website.
-
-
-
-Official Website
-CS50 Introduction on YouTube
-CS50 on edX
-CS50 on Wikipedia
+[Portfolio Website](https://github.com/Hakanerdn/Personal-Portfolio) - full-stack portfolio website.
